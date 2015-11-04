@@ -6,7 +6,7 @@ CartoDB is an open-source mapping platform allowing users to design, publish, an
 
 ### workshops
 
-* [SVA Mapping Workshop]()
+* [SVA Mapping Workshop](http://tinyurl.com/sva-maps)
 * [CUNY Map Data Workshop](https://gist.github.com/auremoser/4876c0d62ae3d7ef2292)
 
 ### resources
